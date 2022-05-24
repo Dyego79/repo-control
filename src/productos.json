@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "url": "/img/smartv.png",
+    "nombre": "TV SMART LG",
+    "categoria": "smart-tv",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 125000,
+    "color": "BLACK"
+  },
+  {
+    "id": 2,
+    "url": "/img/smartphone.jpg",
+    "nombre": "SMARTPHONE SARASA",
+    "categoria": "smartphones",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 69000,
+    "color": ["BLACK", "METAL-GRAY", "RADIAL BLUE"]
+  },
+  {
+    "id": 3,
+    "url": "/img/tablet.jpg",
+    "nombre": "TABLET PRO",
+    "categoria": "tablets",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 79000,
+    "color": ["RED", "METAL-GRAY", "RADIAL BLUE"]
+  },
+  {
+    "id": 4,
+    "url": "/img/smartv.png",
+    "nombre": "TV SMART LG",
+    "categoria": "smart-tv",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 59000,
+    "color": "BLACK"
+  },
+  {
+    "id": 5,
+    "url": "/img/smartphone.jpg",
+    "nombre": "SMARTPHONE SARASA",
+    "categoria": "smartphones",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 39000,
+    "color": ["BLACK", "METAL-GRAY", "RADIAL BLUE"]
+  },
+  {
+    "id": 6,
+    "url": "/img/tablet.jpg",
+    "nombre": "TABLET PRO",
+    "categoria": "tablets",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 85000,
+    "color": ["RED", "METAL-GRAY", "RADIAL BLUE"]
+  },
+  {
+    "id": 7,
+    "url": "/img/smartv.png",
+    "nombre": "TV SMART LG",
+    "categoria": "smart-tv",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 45000,
+    "color": "BLACK"
+  },
+  {
+    "id": 8,
+    "url": "/img/smartphone.jpg",
+    "nombre": "SMARTPHONE SARASA",
+    "categoria": "smartphones",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 35000,
+    "color": ["BLACK", "METAL-GRAY", "RADIAL BLUE"]
+  },
+  {
+    "id": 9,
+    "url": "/img/tablet.jpg",
+    "nombre": "TABLET PRO",
+    "categoria": "tablets",
+    "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque, consectetur. ",
+    "precio": 25000,
+    "color": ["RED", "METAL-GRAY", "RADIAL BLUE"]
+  }
+]
